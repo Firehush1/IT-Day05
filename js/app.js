@@ -19,5 +19,23 @@
 
 // alert("SKILL ");
 
-let name = "Rush";
-console.log(typeof name);
+// let name = "Rush";
+// let age =26;
+// let isAfterALl = true;
+// let customers = [];
+// let customer ={};
+// let salary = 888.0;
+
+
+// console.log(typeof name);
+
+
+//+ | -|*|/
+
+let x =10;
+let y = 5;
+
+console.log(x+y);
+console.log(x-y);
+console.log(x*y);
+console.log(x/y);
