@@ -9,12 +9,15 @@
 
 // alert("Hello icet")
 
-let name = "Hush";
-let age =18;
+// let name = "Hush";
+// let age =18;
 
-name="HUSHHHH";
+// name="HUSHHHH";
 
-console.log(name); 
-console.log(age);
+// console.log(name); 
+// console.log(age);
 
-alert("SKILL ");
+// alert("SKILL ");
+
+let name = "Rush";
+console.log(typeof name);
