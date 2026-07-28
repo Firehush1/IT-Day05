@@ -32,10 +32,24 @@
 
 //+ | -|*|/
 
-let x =10;
-let y = 5;
+// let x =10;
+// let y = 5;
 
-console.log(x+y);
-console.log(x-y);
-console.log(x*y);
-console.log(x/y);
+//let z = x+y;
+
+//console.log(z);
+
+// console.log(x+y);
+// console.log(x-y);
+// console.log(x*y);
+// console.log(x/y);
+
+// > | < | >= | <= | == | === | != | !==
+ let x = 10;
+
+ let y = 5;
+
+ console.log(x+y);
+ console.log(x-y);
+ console.log(x*y);
+ console.log(x/y);
