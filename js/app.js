@@ -27,8 +27,11 @@
 // let salary = 888.0;
 
 
+//---------------------------------------------------------------------
+
 // console.log(typeof name);
 
+//----------------------------------------------------------------------
 
 //+ | -|*|/
 
@@ -43,6 +46,8 @@
 // console.log(x-y);
 // console.log(x*y);
 // console.log(x/y);
+
+//-------------------------------------------------------------------------
 
 // > | < | >= | <= | == | === | != 
 // | !==
@@ -61,11 +66,16 @@
 //  console.log(x != y);
 //  console.log(x !== y);
 
+//--------------------------------------------------------------------------
+
 //  console.log(x > y && x < y);
 //  console.log(x > y || x < y);
 
 //  console.log(!true);
 //  console.log(!false);
+
+
+//--------------------------------------------------------------------------
 
 //&& | || |!
 
@@ -74,6 +84,8 @@
 // }else{
 //     console.log("false");
 // }
+
+//-----------------------------------------------------------------
 
 //if else statement
 
@@ -88,21 +100,30 @@
 //     console.log("x is equal to y");
 // }
 
+//--------------------------------------------------------------------
 
 //switch ststement
 
-let day = "2";
+// let day = "2";
 
-switch(day){
-    case "1":
-        console.log("Monday");
-        break;
-    case "2":
-        console.log("Tuesday");
-        break;
-    case "3":
-        console.log("Wednesday");
-        break;
-    default:
-        console.log("Invalid day");
+// switch(day){
+//     case "1":
+//         console.log("Monday");
+//         break;
+//     case "2":
+//         console.log("Tuesday");
+//         break;
+//     case "3":
+//         console.log("Wednesday");
+//         break;
+//     default:
+//         console.log("Invalid day");
+// }
+
+//----------------------------------------------------------------------
+
+//for loop
+
+for(let i = 0; i <= 5; i++){
+    console.log(i);
 }
