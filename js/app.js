@@ -170,3 +170,14 @@
 // for (let i=0; i< numbers.length; i++){
 //     console.log(numbers[i]);
 //     }
+
+//object
+let person = {
+    name: "John",
+    age: 30,
+    isStudent: false,
+    salary: 50000.0 
+};
+
+console.log(person);
+ 
