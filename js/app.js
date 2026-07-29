@@ -44,27 +44,25 @@
 // console.log(x*y);
 // console.log(x/y);
 
-// > | < | >= | <= | == | === | != | !==
+// > | < | >= | <= | == | === | != 
+// | !==
  let x = 10;
 
- let y = 5;
+ let y = "10";
 
- console.log(x+y);
- console.log(x-y);
- console.log(x*y);
- console.log(x/y);
 
- console.log(x > y);
- console.log(x < y);
- console.log(x >= y);
- console.log(x <= y);
- console.log(x == y);
+
+//  console.log(x > y);
+//  console.log(x < y);
+//  console.log(x >= y);
+//  console.log(x <= y);
+//  console.log(x == y);
  console.log(x === y);
- console.log(x != y);
- console.log(x !== y);
+//  console.log(x != y);
+//  console.log(x !== y);
 
- console.log(x > y && x < y);
- console.log(x > y || x < y);
+//  console.log(x > y && x < y);
+//  console.log(x > y || x < y);
 
- console.log(!true);
- console.log(!false);
+//  console.log(!true);
+//  console.log(!false);
