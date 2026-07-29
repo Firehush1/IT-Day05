@@ -155,4 +155,14 @@ function add(x, y){
 let result = add(10, 5);
 console.log(result);
 
+//public static string add(int x, int y){
+//    return x + y;
+//}
 
+//array
+
+let numbers = [1,true, 3, 4, "Sunil"];
+
+for (let i=0; i< numbers.length; i++){
+    console.log(numbers[i]);
+    }
