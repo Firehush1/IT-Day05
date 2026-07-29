@@ -66,3 +66,11 @@
 
 //  console.log(!true);
 //  console.log(!false);
+
+//&& | || |!
+
+if(!false){
+    console.log("true");
+}else{
+    console.log("false");
+}
