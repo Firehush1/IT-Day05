@@ -138,6 +138,7 @@
 //     i++;
 // }
 
+//--------------------------------------------------------------------
 //do while loop
 
 // let i = 0;
@@ -146,23 +147,26 @@
 //     i++;
 // }while(i <= 5);
 
+
+//-----------------------------------------------------------------------
 // functions
 
-function add(x, y){
-    return x + y;
-}
+// function add(x, y){
+//     return x + y;
+// }
 
-let result = add(10, 5);
-console.log(result);
+// let result = add(10, 5);
+// console.log(result);
 
 //public static string add(int x, int y){
 //    return x + y;
 //}
 
+//-------------------------------------------------------------------------------
 //array
 
-let numbers = [1,true, 3, 4, "Sunil"];
+// let numbers = [1,true, 3, 4, "Sunil"];
 
-for (let i=0; i< numbers.length; i++){
-    console.log(numbers[i]);
-    }
+// for (let i=0; i< numbers.length; i++){
+//     console.log(numbers[i]);
+//     }
