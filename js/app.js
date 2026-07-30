@@ -181,3 +181,21 @@ let person = {
 
 console.log(person);
  
+
+// "10" == 10; true
+// "11" == 10; false
+
+// "10" === 10; false
+// 10 === "10"; false
+// 10 === 10; true
+
+
+
+
+
+
+
+
+
+"10" != 10; false
+"10" !== 10; true   
